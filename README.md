@@ -1,1 +1,1 @@
-# END-OF-PHASE-3-PROJECT
+A simple command-line interface app to track movies you’ve watched and their genres using SQLAlchemy ORM.
